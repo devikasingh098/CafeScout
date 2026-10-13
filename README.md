@@ -2,6 +2,8 @@
 
 CafeScout is a polished, responsive cafe-discovery web app for finding the next place worth lingering at. It combines browser geolocation, Google Maps place data, transparent preference-based recommendations, and persistent favorites in a warm coffeehouse-inspired interface.
 
+🚀 Live Demo: https://cafescout-afsczmyg.manus.space/
+
 ## Features
 
 - **Live cafe discovery:** Search a city, neighborhood, landmark, or address and retrieve nearby cafes from Google Maps Places.
